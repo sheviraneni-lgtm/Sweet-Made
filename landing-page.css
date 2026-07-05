@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: cadetblue;
+}
+.hero-section {
+  background-color: antiquewhite;
+}
+.hero-section img {
+  width: 100px; /*Change later*/
+}
+.menu-section {
+  background-color: beige;
+}
