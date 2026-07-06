@@ -1,16 +1,35 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: #fdfbf7;
 }
 header {
-  background-color: cadetblue;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 0.5px solid #4a2c2a;
 }
-.hero-section {
-  background-color: antiquewhite;
+header a {
+  text-decoration: none;
+  color: #4a2c2a;
+}
+header button {
+  margin: 15px 0;
+  border-radius: 12px;
+  border: none;
+  background-color: #d48c45;
+  color: #fdfbf7;
+  padding: 10px 24px;
 }
 .hero-section img {
   width: 100px; /*Change later*/
 }
-.menu-section {
-  background-color: beige;
+.testimoni-section {
+  background-color: #f6c98a;
+}
+.order-info {
+  background-color: #f6c98a;
+}
+footer {
+  background-color: #a85a5a;
 }
